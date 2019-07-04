@@ -2,11 +2,6 @@
 
 > 微信公众号小程序开发设置
 
-## 微信公众号设置流程
-
-1. 申请微信公众号
-2. 
-
 ### 微信公众号开发设置
 
 ![基本设置](./images/basic.png)
@@ -27,8 +22,8 @@
 
 ![查看开发者密码](./images/view-dev-password.png)
 
-AppID: xxxxXXXXXX
-AppSecret: XXXXXXXXXXXXXXXXXXXXX
+- AppID: xxxxXXXXXX
+- AppSecret: XXXXXXXXXXXXXXXXXXXXX
 
 5. 设置IP白名单
 
@@ -69,3 +64,4 @@ AppSecret: XXXXXXXXXXXXXXXXXXXXX
 12. 关联小程序：小程序->开通->关联小程序
 
 13. 绑定开发者：开发-> 开发者工具->web开发者工具->绑定开发者微信号
+
